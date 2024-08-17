@@ -1,0 +1,1 @@
+Batch deletes assistants -- put in the the IDs of the ones you wnt to save. Requires a .env with your openai api key 
